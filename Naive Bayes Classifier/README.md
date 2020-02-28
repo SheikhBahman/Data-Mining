@@ -1,5 +1,5 @@
 # Discription
-For this project, I will be using the Zoo Animal Classification dataset from the UCI Machine Learning dataset. https://archive.ics.uci.edu/ml/datasets/Zoo
+For this project, I implimented the Naive Bayes Classifier without using libraries, I will be using the Zoo Animal Classification dataset from the UCI Machine Learning dataset. https://archive.ics.uci.edu/ml/datasets/Zoo
 This dataset consists of 101 animals from a zoo. There are 16 variables with various traits to describe the animals. The 7 Class Types are: Mammal, Bird, Reptile, Fish, Amphibian, Bug and Invertebrate.
 
 # Author
